@@ -17,3 +17,5 @@ This plugin allows you to receive and update geometry from Plasticity in real-ti
    Open `dev_reload.py` in the Script Editor, and update this line to point to your local plugin folder:
    ```python
    PLUGIN_DIR = r"C:\C4D_dev\C4D_PlasticityBridge"
+
+https://www.youtube.com/watch?v=3JgJTjDAW3U
